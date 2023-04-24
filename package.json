@@ -1,6 +1,6 @@
 {
   "name": "framework-arduino-megaavr-megatinycore",
-  "version": "2.6.5",
+  "version": "2.6.7",
   "description": "Arduino Wiring-based Framework for Microchip tinyAVR 0-series and 1-series chips (megaTinyCore)",
   "keywords": [
     "framework",
